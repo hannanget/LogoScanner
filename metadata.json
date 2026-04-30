@@ -1,0 +1,6 @@
+{
+  "name": "LogoSeeker",
+  "description": "A powerful logo search engine that aggregates logo designs and contest images from sites like Freelancer.com, Behance, and more using AI-powered search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
